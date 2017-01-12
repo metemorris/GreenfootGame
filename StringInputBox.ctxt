@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=uScore
+comment0.target=StringInputBox(int)
+comment1.params=
+comment1.target=void\ updateImage()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

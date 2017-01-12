@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HighscoreObjectList()
+comment1.params=arraySize
+comment1.target=HighscoreObjectList(int)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment11.params=
+comment11.target=java.lang.String\ printtop10()
+comment2.params=noOfAppInFile\ filename
+comment2.target=HighscoreObjectList(int,\ java.lang.String)
+comment3.params=
+comment3.target=boolean\ isEmpty()
+comment4.params=
+comment4.target=boolean\ isFull()
+comment5.params=
+comment5.target=int\ length()
+comment6.params=score
+comment6.target=HighscoreObject\ isThere(int)
+comment7.params=uScore
+comment7.target=boolean\ insert(HighscoreObject)
+comment8.params=
+comment8.target=HighscoreObject\ getNextItem()
+comment8.text=public\ boolean\ delete\ (int\ ){\r\n\t\tboolean\ returnValue\=false;\r\n\t\tif(\ this.isThere(targetApplianceID)\ \!\=\ null){\r\n\t\t\tfor(int\ i\ \=\ targetApplianceID;\ i<numberOfItems-1;\ i++){\r\n\t\t\t\tapp\ [i]\ \=\ app[i+1];\r\n\t\t\t}\r\n\t\t\tnumberOfItems--;\r\n\t\t\treturnValue\ \=\ true;\r\n\t\t}\r\n\t\treturn\ returnValue;\r\n}
+comment9.params=
+comment9.target=void\ resetList()
+numComments=12

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=uScore\ uName
+comment0.target=HighscoreObject(int,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=int\ getScore()
+comment3.params=that
+comment3.target=int\ compareTo(HighscoreObject)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

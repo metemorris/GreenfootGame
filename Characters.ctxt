@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ Characters\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=clss
+comment1.target=boolean\ canSee(java.lang.Class)
+comment2.params=clss
+comment2.target=void\ eat(java.lang.Class)
+comment3.params=
+comment3.target=void\ endOfRoad()
+numComments=4

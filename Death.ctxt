@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=sCounter
+comment0.target=Death(ScoreCounter)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ tryToEatPlayer()
+numComments=3
